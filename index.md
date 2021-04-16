@@ -2,4 +2,4 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Is my pleasure to have you as my guest. And will be my pleasure to help you out in any of your needs.
