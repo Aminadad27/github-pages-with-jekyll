@@ -1,5 +1,5 @@
-# Your GitHub Learning Lab Repository for GitHub Pages
-
+.#copyright# Your GitHub Learning Lab Repository for GitHub Pages
+.,>_/>[.Josué.@.%?ⁿ3a3.G4thzälez.,  ☆Blanco.]
 Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. 
 
 Oh! I haven't introduced myself...
